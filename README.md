@@ -3,3 +3,9 @@
 ## 그냥 연습입니다.
 
 ### I test and pratice github. Noting in here. 
+
+
+신기하네요
+
+
+---
